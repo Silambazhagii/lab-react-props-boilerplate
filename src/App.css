@@ -1,0 +1,14 @@
+/* add your styles here */
+.body{
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    grid-gap: 20px ;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    width: 100%;
+}

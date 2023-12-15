@@ -85,7 +85,7 @@ You can clone your previous project (`lab-react-jsx-boilerplate`) again, and the
             id:4,
             img:elephant
           }
-        ]
+        ]}
         return data;
       
     ```
